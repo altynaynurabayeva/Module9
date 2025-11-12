@@ -1,0 +1,14 @@
+/Users/admin/Desktop/HotelProject/HotelProject/obj/Debug/net9.0/HotelProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/HotelProject/HotelProject/obj/Debug/net9.0/HotelProject.AssemblyInfoInputs.cache
+/Users/admin/Desktop/HotelProject/HotelProject/obj/Debug/net9.0/HotelProject.AssemblyInfo.cs
+/Users/admin/Desktop/HotelProject/HotelProject/obj/Debug/net9.0/HotelProject.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/HotelProject/HotelProject/bin/Debug/net9.0/HotelProject
+/Users/admin/Desktop/HotelProject/HotelProject/bin/Debug/net9.0/HotelProject.deps.json
+/Users/admin/Desktop/HotelProject/HotelProject/bin/Debug/net9.0/HotelProject.runtimeconfig.json
+/Users/admin/Desktop/HotelProject/HotelProject/bin/Debug/net9.0/HotelProject.dll
+/Users/admin/Desktop/HotelProject/HotelProject/bin/Debug/net9.0/HotelProject.pdb
+/Users/admin/Desktop/HotelProject/HotelProject/obj/Debug/net9.0/HotelProject.dll
+/Users/admin/Desktop/HotelProject/HotelProject/obj/Debug/net9.0/refint/HotelProject.dll
+/Users/admin/Desktop/HotelProject/HotelProject/obj/Debug/net9.0/HotelProject.pdb
+/Users/admin/Desktop/HotelProject/HotelProject/obj/Debug/net9.0/HotelProject.genruntimeconfig.cache
+/Users/admin/Desktop/HotelProject/HotelProject/obj/Debug/net9.0/ref/HotelProject.dll
