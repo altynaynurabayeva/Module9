@@ -1,0 +1,14 @@
+/Users/admin/Desktop/Module09/Module09/bin/Debug/net9.0/Module09
+/Users/admin/Desktop/Module09/Module09/bin/Debug/net9.0/Module09.deps.json
+/Users/admin/Desktop/Module09/Module09/bin/Debug/net9.0/Module09.runtimeconfig.json
+/Users/admin/Desktop/Module09/Module09/bin/Debug/net9.0/Module09.dll
+/Users/admin/Desktop/Module09/Module09/bin/Debug/net9.0/Module09.pdb
+/Users/admin/Desktop/Module09/Module09/obj/Debug/net9.0/Module09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Module09/Module09/obj/Debug/net9.0/Module09.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Module09/Module09/obj/Debug/net9.0/Module09.AssemblyInfo.cs
+/Users/admin/Desktop/Module09/Module09/obj/Debug/net9.0/Module09.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Module09/Module09/obj/Debug/net9.0/Module09.dll
+/Users/admin/Desktop/Module09/Module09/obj/Debug/net9.0/refint/Module09.dll
+/Users/admin/Desktop/Module09/Module09/obj/Debug/net9.0/Module09.pdb
+/Users/admin/Desktop/Module09/Module09/obj/Debug/net9.0/Module09.genruntimeconfig.cache
+/Users/admin/Desktop/Module09/Module09/obj/Debug/net9.0/ref/Module09.dll
